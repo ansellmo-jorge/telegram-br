@@ -20,6 +20,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [Elixir](#elixir)
   - [Elm](#elm)
   - [LINUX](#linux)
+  - [EDITORES GRAFICOS](#editores_graficos)
     - [DISTRIBUICOES LINUX](#distribuicoes-linux)
   - [WINDOWS](#windows)
   - [DEV GERAL](#dev-geral)
@@ -63,12 +64,18 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [YII](http://telegram.me/yiibrasil)
 - [ZENDFRAMEWORK](https://telegram.me/ZendFramework)
 
-### PYTHON
+### PYTHON PT-BR
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [GRUPY-ES](https://telegram.me/grupyes)
 - [PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA)
 - [PYCODING](https://telegram.me/PyCoding)
 - [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
+
+### PYTHON & DATA SCIENCE
+- [Pt-BR Data Science & Python](https://t.me/datasciencepython)
+
+### PYTHON EN
+- [Python](https://t.me/pythongroup)
 
 - [GruPyPR](https://telegram.me/grupy_pr)
 - [PyBr Roda de Conversa](https://t.me/pythonbr)
@@ -80,7 +87,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
 
 ### JAVA
-- [DevCodeBr Android/Java](https://t.me/devcodebr_android)
+- [DevCodeBr - Android/Java/Kotlin](https://t.me/devcodebr_android)
 - [JAVA PT](https://t.me/javaofficial_pt)
 
 ### JAVASCRIPT
@@ -130,6 +137,11 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
   - [openSUSE BR](https://telegram.me/opensusebr)
   - [UBUNTU BR](https://t.me/UbuntuBrasilOficial)
   - [ELEMENTARY BRASIL](https://t.me/elementarybr)
+  - [Kali Linux Brasil](https://t.me/kalibrasil)
+  
+### EDITORES GRÁFICOS
+- [GNUGRAF](https://t.me/grupoGNUGRAF)
+- [Inkscape](https://t.me/inkscape_group)
   
 ### WINDOWS
 - [EXCEL BR](https://telegram.me/excelbr)
