@@ -70,13 +70,6 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA)
 - [PYCODING](https://telegram.me/PyCoding)
 - [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
-
-### PYTHON & DATA SCIENCE
-- [Pt-BR Data Science & Python](https://t.me/datasciencepython)
-
-### PYTHON EN
-- [Python](https://t.me/pythongroup)
-
 - [GruPyPR](https://telegram.me/grupy_pr)
 - [PyBr Roda de Conversa](https://t.me/pythonbr)
 - [PYCODING](https://telegram.me/PyCoding)
@@ -85,6 +78,12 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PyTche](https://t.me/pytche)
 - [PYTHON FLFASK](https://telegram.me/pythonflask)
 - [WEB2PY](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ)
+
+### PYTHON & DATA SCIENCE
+- [Pt-BR Data Science & Python](https://t.me/datasciencepython)
+
+### PYTHON EN
+- [Python](https://t.me/pythongroup)
 
 ### JAVA
 - [DevCodeBr - Android/Java/Kotlin](https://t.me/devcodebr_android)
